@@ -1,6 +1,9 @@
 git config --global user.name komachi1ne
 git config --global user.email isabellevasconcelos862@gmail.com
 
+git config --global user.name kamilisimionato
+git config --global user.email kamili.simionato@etec.sp.gov.br
+
 npx create-expo-app@latest StickerSmash
 
 cd StickerSmash
@@ -9,3 +12,6 @@ npm run reset-project
 
 npx expo start --localhost --android
 
+npm install dom-to-image
+
+npx expo start --web
