@@ -6,7 +6,7 @@ git config --global user.email kamili.simionato@etec.sp.gov.br
 
 npx create-expo-app@latest StickerSmash
 
-cd StickerSmash
+
 
 npm run reset-project
 
