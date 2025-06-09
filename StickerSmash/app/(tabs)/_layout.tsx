@@ -7,19 +7,19 @@ export default function TabLayout() {
       screenOptions={{
         tabBarActiveTintColor: "white",
         headerStyle: {
-          backgroundColor: "red",
+          backgroundColor: "#734DBA",
         },
         headerShadowVisible: false,
         headerTintColor: "#fff",
         tabBarStyle: {
-          backgroundColor: "red",
+          backgroundColor: "#734DBA",
         },
       }}
     >
       <Tabs.Screen
         name="index"
         options={{
-          title: "Decore a PUCCA",
+          title: "Decore a KUROMI",
           headerTitleAlign: 'center',
           tabBarIcon: ({ color, focused }) => (
             <Ionicons
